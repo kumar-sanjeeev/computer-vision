@@ -4,7 +4,7 @@
 This repository contains all the projects that I have done to get the deeper understanding of the  computer vision concepts.
 
 ## Projects
-* [**Lane Marking**](lane-marking/README.md) 
+* [**Lane Marking**](lane-marking) 
   - Created a pipeline consist of different python modules to detect the presence of lane lines in the input images and videos
   - Sneak Peak:
       - `Input --> output`                                         
